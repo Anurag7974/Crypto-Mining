@@ -1,4 +1,4 @@
-# btcmining
+# Crypto-BTC Mining
 
 A new Flutter project.
 
