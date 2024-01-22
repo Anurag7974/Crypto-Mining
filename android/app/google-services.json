@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "961887182019",
+    "project_id": "btcmining-bf56f",
+    "storage_bucket": "btcmining-bf56f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961887182019:android:e47e795b78d2ebe1f61676",
+        "android_client_info": {
+          "package_name": "com.example.btcmining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961887182019-j7vbiiskv73onifaf23k46arvl13vfug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btcmining",
+            "certificate_hash": "f5e29117ee93d89b04a6a5be5727d4911e055220"
+          }
+        },
+        {
+          "client_id": "961887182019-2rmd4bu8p6q9lmc0vsngg66drkr7i86l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Bzz7mwPTQnVIciu_cde5qW77pmeNv50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961887182019-2rmd4bu8p6q9lmc0vsngg66drkr7i86l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961887182019-fop3te094qjb9tj8r52fogcjrem9ldin.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btcmining"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
