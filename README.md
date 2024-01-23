@@ -30,6 +30,12 @@ A new Flutter project.
 
 <h3 align="left">Preview</h3>
 
+![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide1.PNG)
+![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide2.PNG)
+![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide3.PNG)
+![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide4.PNG)
+![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide5.PNG)
+![img](https://github.com/Anurag7974/Crypto-Mining/blob/master/assets/splash/Slide6.PNG)
 
 
 
